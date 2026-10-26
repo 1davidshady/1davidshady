@@ -18,7 +18,7 @@
 
 ## Professional Summary
 
-CompTIA A+, Network+, Security+, Microsoft AZ-900, and AI-900 certified IT professional with hands-on experience in technical support, PC repair, and hardware/software troubleshooting. Skilled in Windows, Linux, macOS, Active Directory, and small-business networking. Committed to problem-solving, clear communication, and continuous learning.
+CompTIA A+, Network+, Security+, Microsoft AZ-900,AI-900, and AI-901 certified IT professional with hands-on experience in technical support, PC repair, and hardware/software troubleshooting. Skilled in Windows, Linux, macOS, Active Directory, and small-business networking. Committed to problem-solving, clear communication, and continuous learning.
 
 ---
 

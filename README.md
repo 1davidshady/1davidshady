@@ -4,7 +4,7 @@
 
 <img src="https://github.com/1davidshady.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there, I'm David P. Shady
+# I'm David P. Shady
 
 **David P. Shady**
 

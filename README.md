@@ -10,7 +10,7 @@
 
 *IT Professional*
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-shady) [![GITHUB](https://img.shields.io/badge/GITHUB-%401davidshady-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1davidshady) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidshady1611@gmail.com) [![RESUME](https://img.shields.io/badge/RESUME-VIEW-0969da?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1biZPU5cDR4iqx6xbx_fECzbAuY3eBUC6/edit?usp=sharing&ouid=101115782873760994668&rtpof=true&sd=true)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-shady) [![GITHUB](https://img.shields.io/badge/GITHUB-%401davidshady-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1davidshady) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidpshady@pm.me) [![RESUME](https://img.shields.io/badge/RESUME-VIEW-0969da?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1biZPU5cDR4iqx6xbx_fECzbAuY3eBUC6/edit?usp=sharing&ouid=101115782873760994668&rtpof=true&sd=true)
 
 </div>
 
